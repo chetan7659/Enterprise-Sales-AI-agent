@@ -4,8 +4,7 @@
 
 Built with **Python**, **Streamlit**, **Google Gemini 2.5 Flash**, and **Snowflake**.
 
-![Streamlit UI](backend/ui/background.jpg)  
-*(Reference Image: Modern transparent chat interface over custom background)*
+![AI Sales Assistant Architecture](backend/ui/architecture.jpg)  
 
 ---
 
